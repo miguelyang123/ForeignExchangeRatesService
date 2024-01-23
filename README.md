@@ -7,4 +7,4 @@
 * JAVA 11
 * Spring Boot
 * Maven
-* DB: My SQL
+* DB: MySQL
